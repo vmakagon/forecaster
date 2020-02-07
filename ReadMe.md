@@ -3,8 +3,8 @@
 
 This dataset contains daily weather observations from numerous Australian weather stations. Predict whether or not it will rain tomorrow by training a binary classification model. The target variable RainTomorrow means: Did it rain the next day? Yes (1) or No (0).
 
-Date: The date of observation
-Location: The common name of the location of the weather station
+*Date: The date of observation
+* Location: The common name of the location of the weather station
 MinTemp: The minimum temperature in degrees celsius
 MaxTemp: The maximum temperature in degrees celsius
 Rainfall: The amount of rainfall recorded for the day in mm
